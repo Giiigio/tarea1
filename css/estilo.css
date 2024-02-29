@@ -1,0 +1,46 @@
+*
+{margin: 10px; 
+}
+#principal
+{
+    margin: auto;
+    margin-top:30px;
+    border-radius: 30px;
+    border-style: solid;
+    width: 600px;
+    height: 600px;
+    background-color: yellow;
+}
+
+#caja1
+{
+    width: 560px;
+    height: 100px;
+    background-color: aqua;
+    margin: auto;
+}
+
+#caja2
+{
+    width: 560px;
+    height: 100px;
+    background-color: darksalmon;
+}
+
+#caja3
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: green;
+    float: left;
+}
+
+
+#caja11
+{
+    width: 200px;
+    height: 50px;
+    background-color: purple;
+
+}
